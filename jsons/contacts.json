@@ -1,0 +1,20 @@
+{
+    "firstName":"Node",
+    "lastName":"Js",
+    "company":"Facebook",
+    "jobTitle":"Developer",
+    "email":"email@nodejs.com",
+    "avatar":"image path",
+    "phoneNumbers":[
+        {
+            "countryCode":"+91",
+            "phoneNumber":"1234567890",
+            "lableId": "63ca4e9c78366553398e5adc"
+        },
+        {
+            "countryCode":"+91",
+            "phoneNumber":"9999999999",
+            "lableId":"63ca4ebf78366553398e5ade"
+        }
+    ]
+}
